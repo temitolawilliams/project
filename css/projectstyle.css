@@ -1,0 +1,61 @@
+body{
+	background-color: black;
+}
+
+.Home-Page{
+	background-image: url("../images/header-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.nav-link{
+	text-transform: uppercase;
+	color: orange;
+	text-decoration-line: all;
+	font-family:fantasy;
+
+}
+.Home-Page-Content{
+	margin-top:90px;
+	padding-top: 90px;
+	padding-left: 150px;
+	padding-bottom: 90px;
+	justify-content: center;
+	color: white;
+	font-size: 100px;
+	font-style:initial;
+	font-family: Montserrat; font-weight: 200px; font-size: 100px;
+}
+
+.service-title {
+	text-transform: uppercase;
+}
+
+.about{
+	background-color: white;
+	justify-content: center;
+	padding-top: 90px;
+}
+.about-content{
+	justify-content: right;
+}
+.team-image{
+	height: 240px;
+	width: 240px;
+	border-width: 5px;
+	border-color: grey;
+	border-style: solid;
+}
+.contact-us{
+	background-image: url("../images/map-image.png");
+}
+#message{
+	height: 248px;
+	width: auto;
+
+}
+button{
+	justify-content: center;
+}
+h2{
+	font-weight: 100px;
+}
